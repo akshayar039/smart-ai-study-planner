@@ -17,7 +17,7 @@ A Python and Flask-based study planner designed to help students organize their 
 
 1. Clone this repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/akshayar039/smart-ai-study-planner.git
    ```
 2. Navigate to the project folder:
    ```bash
